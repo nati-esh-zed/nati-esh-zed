@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nati8333
+- 👀 I’m interested in web development using `php`
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on [cloo](https://github.com/defalt8/cloo)
+- 📫 How to reach me [the.defalt8@gmail.com](the.defalt8@gmail.com)
