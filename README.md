@@ -1,5 +1,5 @@
 ✝️ በስመ አብ ወወልድ ወመንፈስ ቅዱስ አሃዱ አምላክ አሜን።  
-✝️ In name of the Father,the Son and the Holy Spirit,one God, amen.
+✝️ In name of the Father,the Son and the Holy Spirit,one God, amen.  
 ✝️ 
 
 - 👋 Hi, I’m @nati8333
