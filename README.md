@@ -1,4 +1,4 @@
-<h3 align="center">በስመ አብ ወወልድ ወመንፈስ ቅዱስ አሃዱ አምላክ አሜን።</h3>  
+
 <h1 align="center">Hi 👋, I'm Natnael</h1>
 <h3 align="center">A passionate frontend and library developer from Ethiopia</h3>
 
