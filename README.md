@@ -1,16 +1,26 @@
-## Hi there 👋
+# Natnael Eshetu
 
-<!--
-**nati-esh-zed/nati-esh-zed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TypeScript library maintainer and full-stack developer from Ethiopia.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently maintaining the @bepalo JavaScript libraries.
+- 🌱 I’m learning to be professional at full-stack (backend heavy).
+- 📫 You can contact me via email: [natieshzed@gmail.com](mailto:
+natieshzed@gmail.com)
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Bepalo*: Query, RJSON, Router, JWT, Cache, Time libraries
+- *BBQDN stack*: Bun, Bepalo Query, Drizzle, Nextjs
+
+## Stack
+
+TypeScript
+Bun
+Bepalo
+Node.js
+Nextjs
+PostgreSQL
+Drizzle ORM
+
+## Links
+
+[linkedin](https://linkedin.com/in/nati-esh-zed)
