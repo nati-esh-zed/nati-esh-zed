@@ -4,7 +4,7 @@
 - 🏗 Building developer tools, backend infrastructure, and database-driven applications.
 - 🌱 Continuously improving expertise in backend architecture, distributed systems, and full-stack development.
 - 📫 Contact: natieshzed@gmail.com
-- 👔 linkedIn: [linkedin.com/in/nati-esh-zed](linkedin.com/in/nati-esh-zed)
+- 👔 linkedIn: [linkedin.com/in/nati-esh-zed](https://linkedin.com/in/nati-esh-zed)
 
 ## Tech Stack
 
