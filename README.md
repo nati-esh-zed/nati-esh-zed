@@ -17,11 +17,16 @@ TypeScript • Bun • Node.js • Next.js • PostgreSQL • Drizzle ORM
 
 #### [Bepalo Query](https://www.npmjs.com/package/@bepalo/query)
 
-[![CI](https://github.com/bepalo/query/actions/workflows/ci.yml/badge.svg)](https://github.com/bepalo/query/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@bepalo/query.svg)](https://www.npmjs.com/package/@bepalo/query)
+[![CI](https://img.shields.io/github/actions/workflow/status/bepalo/query/ci.yaml?label=ci)](https://github.com/bepalo/query/actions/workflows/ci.yaml)
+[![tests](https://img.shields.io/github/actions/workflow/status/bepalo/query/testing.yaml?label=tests)](https://github.com/bepalo/query/actions/workflows/testing.yaml)
+[![license](https://img.shields.io/npm/l/@bepalo/query.svg)](LICENSE)
 
 ![npm](https://img.shields.io/npm/v/@bepalo/query)
 
 ![npm downloads](https://img.shields.io/npm/dm/@bepalo/query)
+
+![npm downloads](https://img.shields.io/npm/dw/@bepalo/query)
 
 A type-safe access-control-driven unified RESTful database query engine for backend using Drizzle ORM.
 
