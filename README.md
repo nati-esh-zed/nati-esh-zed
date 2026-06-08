@@ -2,25 +2,30 @@
 
 TypeScript library maintainer and full-stack developer from Ethiopia.
 
-- 🔭 I’m currently maintaining the @bepalo JavaScript libraries.
-- 🌱 I’m learning to be professional at full-stack (backend heavy).
-- 📫 You can contact me via email: [natieshzed@gmail.com](mailto:
-natieshzed@gmail.com)
+- 🔭 Maintaining the @bepalo ecosystem: Query, Router, JWT, Cache, Time, and RJSON.
+- 🏗 Building developer tools, backend infrastructure, and database-driven applications.
+- 🌱 Continuously improving expertise in backend architecture, distributed systems, and full-stack development.
+- 📫 Contact: natieshzed@gmail.com
+
 ## Projects
 
-- *Bepalo*: Query, RJSON, Router, JWT, Cache, Time libraries
-- *BBQDN stack*: Bun, Bepalo Query, Drizzle, Nextjs
+### Bepalo Ecosystem
 
-## Stack
+- Bepalo Query
+- Bepalo Router
+- Bepalo JWT
+- Bepalo Cache
+- Bepalo Time
+- Bepalo RJSON
 
-- TypeScript
-- Bun
-- Bepalo
-- Node.js
-- Nextjs
-- PostgreSQL
-- Drizzle ORM
+### BBQDN Stack
+
+Bun • Bepalo Query • Drizzle ORM • Next.js • PostgreSQL
+
+## Tech Stack
+
+TypeScript • Bun • Node.js • Next.js • PostgreSQL • Drizzle ORM
 
 ## Links
 
-[linkedin](https://linkedin.com/in/nati-esh-zed)
+LinkedIn: [linkedin.com/in/nati-esh-zed](linkedin.com/in/nati-esh-zed)
