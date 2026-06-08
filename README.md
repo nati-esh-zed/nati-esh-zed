@@ -1,6 +1,4 @@
-# Natnael Eshetu
-
-TypeScript library maintainer and full-stack developer from Ethiopia.
+# Natnael Eshetu - TypeScript library maintainer and full-stack developer from Ethiopia
 
 - 🔭 Maintaining the @bepalo ecosystem: Query, Router, JWT, Cache, Time, and RJSON.
 - 🏗 Building developer tools, backend infrastructure, and database-driven applications.
