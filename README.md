@@ -13,13 +13,13 @@ natieshzed@gmail.com)
 
 ## Stack
 
-TypeScript
-Bun
-Bepalo
-Node.js
-Nextjs
-PostgreSQL
-Drizzle ORM
+- TypeScript
+- Bun
+- Bepalo
+- Node.js
+- Nextjs
+- PostgreSQL
+- Drizzle ORM
 
 ## Links
 
