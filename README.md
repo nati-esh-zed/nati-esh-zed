@@ -14,7 +14,7 @@ TypeScript • Bun • Node.js • Next.js • PostgreSQL • Drizzle ORM
 
 ### BBQDN Stack
 
-Bun • Bepalo Query • Drizzle ORM • Next.js • PostgreSQL
+Bun • Bepalo Query • Drizzle ORM • Next.js
 
 ### Bepalo Ecosystem
 
